@@ -1,0 +1,9 @@
+# Android specific files
+*.iml
+.gradle
+/build
+/captures
+/.idea
+/local.properties
+.DS_Store
+ 
